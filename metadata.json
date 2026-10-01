@@ -1,0 +1,6 @@
+{
+  "name": "NEURONET // Cyberpunk Creative Portfolio & Journal",
+  "description": "Portofolio web responsif bertema cyberpunk dengan galeri karya interaktif, jurnal teknikal devlog, dan HUD cybernetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
